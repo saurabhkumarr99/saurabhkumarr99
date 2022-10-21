@@ -1,17 +1,9 @@
-- 👋 Hi, I’m @saurabhkumarr99
-- 👀 I’m interested in Full Stack Java Development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-https://saurabhkumarr99.github.io/MyResume/
-
-<!---
-saurabhkumarr99/saurabhkumarr99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <h1 align="center">Hi 👋, I'm Saurabh Kumar Rai</h1>
 <h3 align="center">A passionate Web developer and Java Developer from India</h3>
+
+- 🔭 I’m currently working on **Cordova App development**
+
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **saurabhkumarr99@gmail.com**
 
