@@ -14,10 +14,8 @@
 <a href="https://twitter.com/saurabhkumarr99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saurabhkumarr99" height="30" width="40" /></a>
 <a href="https://linkedin.com/in//saurabh-kumar-rai-36531a222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/saurabh-kumar-rai-36531a222/" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@saurabhkumar25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@saurabhkumar25" height="30" width="40" /></a>
-<a href="https://hub.docker.com/u/saurabhkumarr99" target="blank"><img align="center" src="https://azuredays.com/docker-logo/" alt="@saurabhkumar99" height="30" width="40" /></a>
-<a href="https://hub.docker.com/u/saurabhkumarr99" target="_blank" class="btn btn-primary">
-  <i class="fab fa-docker"></i> Visit DockerHub Profile
-</a>
+<a href="https://hub.docker.com/u/saurabhkumarr99" target="blank"><img align="center" src="https://github.com/saurabhkumarr99/MyResume/blob/master/images/docker-logo.png" alt="@saurabhkumar99" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
